@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "424543912916",
+    "firebase_url": "https://wb-bk-6d618.firebaseio.com",
+    "project_id": "wb-bk-6d618",
+    "storage_bucket": "wb-bk-6d618.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424543912916:android:0d93ab53f0abd902",
+        "android_client_info": {
+          "package_name": "com.shibli.pushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "424543912916-0mmjuepsjfccaklufso9b0kfohbmvv72.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2S3RuiTSwy0kMh69dYd7ErDZKK4sxPbg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

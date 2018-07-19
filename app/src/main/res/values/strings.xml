@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Push Notification</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="FCM_PREF">com.shibli.pushnotification.fcm_pref</string>
+    <string name="FCM_TOKEN">com.shibli.pushnotification.fcm_token</string>
+
+</resources>
